@@ -1,0 +1,9 @@
+F:\VP\Projects\Projectss\Projectss\bin\Debug\Projectss.exe.config
+F:\VP\Projects\Projectss\Projectss\bin\Debug\Projectss.exe
+F:\VP\Projects\Projectss\Projectss\bin\Debug\Projectss.pdb
+F:\VP\Projects\Projectss\Projectss\obj\Debug\Projectss.csprojResolveAssemblyReference.cache
+F:\VP\Projects\Projectss\Projectss\obj\Debug\Projectss.Form1.resources
+F:\VP\Projects\Projectss\Projectss\obj\Debug\Projectss.Properties.Resources.resources
+F:\VP\Projects\Projectss\Projectss\obj\Debug\Projectss.csproj.GenerateResource.Cache
+F:\VP\Projects\Projectss\Projectss\obj\Debug\Projectss.exe
+F:\VP\Projects\Projectss\Projectss\obj\Debug\Projectss.pdb
